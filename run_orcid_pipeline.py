@@ -1,4 +1,4 @@
-"""Run all local ORCID pilot stages in the correct order."""
+"""Run the three file-based ORCID pilot stages in order."""
 
 from __future__ import annotations
 
@@ -8,22 +8,12 @@ from pathlib import Path
 
 
 BASE_DIR = Path(__file__).resolve().parent
-STEPS = (
-    ("1/3 ORCID çıkarımı ve checksum kontrolü", "orcid_pilot.py"),
-    ("2/3 ORCID Public API kayıt doğrulaması", "orcid_api_validation.py"),
-    ("3/3 ORCID adı ile PDF metni eşleştirmesi", "orcid_author_matching.py"),
-)
 
 
 def main() -> None:
-    for description, script_name in STEPS:
-        print("\n" + "=" * 68)
-        print(description)
-        print("=" * 68)
-        subprocess.run([sys.executable, str(BASE_DIR / script_name)], check=True, cwd=BASE_DIR)
-
-    print("\nORCID pipeline tamamlandı.")
-    print(f"Ana rapor: {BASE_DIR / 'outputs' / 'orcid_author_name_report.txt'}")
+    for script in ("orcid_pilot.py", "orcid_api_validation.py", "orcid_author_matching.py"):
+        subprocess.run([sys.executable, str(BASE_DIR / script)], check=True, cwd=BASE_DIR)
+    print("ORCID pipeline tamamlandı.")
 
 
 if __name__ == "__main__":
