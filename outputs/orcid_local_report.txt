@@ -1,0 +1,87 @@
+YEREL ORCID ÇIKARIM VE CHECKSUM DOĞRULAMA RAPORU
+==============================================================
+Kapsam: PDF metni ve PDF içindeki URI bağlantıları tarandı.
+Bu aşamada ORCID API'ye istek yapılmadı; kayıt/yazar adı doğrulaması sonraki aşamadır.
+
+orcid1.pdf
+  Bulunan aday: 4
+  Checksum geçerli: 4
+  - Sayfa 1 | ORCID: 0000-0002-8214-7895 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0002-8214-7895
+  - Sayfa 1 | ORCID: 0009-0000-6120-0733 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0009-0000-6120-0733
+  - Sayfa 1 | ORCID: 0000-0002-3190-3734 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0002-3190-3734
+  - Sayfa 1 | ORCID: 0009-0000-6120-0733 | geçerli | kaynak: text_block_24
+    Bağlam: karahisar Sağlık Bilimleri Üniversitesi Sağlık Bilimleri Fakültesi, Fizyoterapi ve Rehabilitasyon Anabilim Dalı, Afyonkarahisar, Türkiye E-posta: zeynepcikar61@gmail.com ORCID: orcid.org/0009-0000-6120-0733
+
+orcid2.pdf
+  Bulunan aday: 6
+  Checksum geçerli: 6
+  - Sayfa 1 | ORCID: 0000-0003-4502-0649 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0003-4502-0649
+  - Sayfa 1 | ORCID: 0000-0003-3129-6417 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0003-3129-6417
+  - Sayfa 1 | ORCID: 0000-0002-9470-5831 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0002-9470-5831
+  - Sayfa 1 | ORCID: 0000-0003-0785-0238 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0003-0785-0238
+  - Sayfa 1 | ORCID: 0000-0001-9375-8133 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0001-9375-8133
+  - Sayfa 1 | ORCID: 0000-0002-9470-5831 | geçerli | kaynak: text_block_28
+    Bağlam: a Adresi: Ezgi Ergin, MSc, Dokuz Eylül University Faculty of Physical Therapy and Rehabilitation, School of Health Sciences, İzmir, Türkiye E-mail: eezgi.eergin@gmail.com ORCID: orcid.org/0000-0002-9470-5831
+
+orcid3.pdf
+  Bulunan aday: 8
+  Checksum geçerli: 8
+  - Sayfa 1 | ORCID: 0000-0002-6671-0238 | geçerli | kaynak: text_block_31
+    Bağlam: 32200. Tel: +90 246 211 3381 Fax: +90 246 237 1610 E-mail: pinarergoz@gmail.com ORCID: 0000-0002-6671-0238
+  - Sayfa 1 | ORCID: 0000-0003-4970-9929 | geçerli | kaynak: text_block_33
+    Bağlam: Hüseyin Tolga ACAR E-mail: tolgacar_32@hotmail.com ORCID: 0000-0003-4970-9929
+  - Sayfa 1 | ORCID: 0000-0002-6671-0238 | geçerli | kaynak: text_block_34
+    Bağlam: Pınar YAŞAR E-mail: pinarergoz@gmail.com ORCID: 0000-0002-6671-0238
+  - Sayfa 1 | ORCID: 0000-0002-8904-1209 | geçerli | kaynak: text_block_36
+    Bağlam: ORCID: 0000-0002-8904-1209
+  - Sayfa 1 | ORCID: 0000-0002-0878-3877 | geçerli | kaynak: text_block_38
+    Bağlam: Ahmet Said UYAN E-mail: ahmetsaiduyan@gmail.com ORCID: 0000-0002-0878-3877
+  - Sayfa 1 | ORCID: 0000-0001-6816-5766 | geçerli | kaynak: text_block_39
+    Bağlam: Ayhan CANBULUT E-mail: ayhancanbulut7@gmail.com ORCID: 0000-0001-6816-5766
+  - Sayfa 1 | ORCID: 0000-0001-9500-698X | geçerli | kaynak: text_block_40
+    Bağlam: Sabriye ERCAN E-mail: sabriyeercan@gmail.com ORCID: 0000-0001-9500-698X
+  - Sayfa 1 | ORCID: 0000-0001-7488-9242 | geçerli | kaynak: text_block_42
+    Bağlam: Zeliha BAŞKURT E-mail: zelihatulum@gmail.com ORCID: 0000-0001-7488-9242
+
+orcid4.pdf
+  Bulunan aday: 2
+  Checksum geçerli: 2
+  - Sayfa 1 | ORCID: 0000-0001-7481-3045 | geçerli | kaynak: text_block_27
+    Bağlam: 0242 510 6060 / 7023 fatih.dikici@alanya.edu.tr ORCID: 0000-0001-7481-3045
+  - Sayfa 1 | ORCID: 0000-0002-7139-0523 | geçerli | kaynak: text_block_29
+    Bağlam: E-mail: ertudemirdel@gmail.com ORCID ID: 0000-0002-7139-0523
+
+orcid5.pdf
+  Bulunan aday: 6
+  Checksum geçerli: 6
+  - Sayfa 1 | ORCID: 0000-0003-1908-274X | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0003-1908-274X
+  - Sayfa 1 | ORCID: 0000-0002-7267-7622 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0002-7267-7622
+  - Sayfa 1 | ORCID: 0000-0003-3209-1499 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0003-3209-1499
+  - Sayfa 1 | ORCID: 0000-0002-4635-5179 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0002-4635-5179
+  - Sayfa 1 | ORCID: 0000-0003-1264-7971 | geçerli | kaynak: pdf_link
+    Bağlam: PDF bağlantısı: https://orcid.org/0000-0003-1264-7971
+  - Sayfa 1 | ORCID: 0000-0003-3209-1499 | geçerli | kaynak: text_block_25
+    Bağlam: Elif Gür Kabul, PT, Assoc. Prof. Uşak University Faculty of Health Sciences, Department of Physiotherapy and Rehabilitation, Uşak, Türkiye E-mail: elifgur1988@hotmail.com ORCID: orcid.org/0000-0003-3209-1499
+
+GENEL SONUÇ
+--------------------------------------------------------------
+Taranan PDF: 5
+Toplam ORCID aday kaydı: 26
+Checksum geçerli aday: 26
+Tekil ve checksum geçerli ORCID: 22
+
+Not: Checksum geçerliliği ORCID numarasının yapısal olarak tutarlı olduğunu
+gösterir. ORCID kaydının gerçekten varlığı ve kayıt sahibinin PDF yazarıyla
+eşleşmesi, sonraki API tabanlı doğrulama aşamasında ölçülecektir.

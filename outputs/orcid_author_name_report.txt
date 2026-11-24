@@ -1,0 +1,148 @@
+ORCID API ADI VE PDF YAZAR METNİ KARŞILAŞTIRMA RAPORU
+==================================================================
+Yöntem: ORCID API'den gelen kamuya açık ad, ORCID'nin geçtiği PDF sayfasının
+metniyle Türkçe karakter normalizasyonu yapılarak karşılaştırıldı.
+Bu sonuç otomatik bir aday eşleşmesidir; kimlik kanıtı değildir.
+
+PDF: orcid1.pdf | Sayfa: 1
+  ORCID: 0000-0002-8214-7895 | API: found
+  ORCID kamuya açık adı: BİHTER AKINOĞLU
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid1.pdf | Sayfa: 1
+  ORCID: 0009-0000-6120-0733 | API: found
+  ORCID kamuya açık adı: Zeynep Arıkan
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid1.pdf | Sayfa: 1
+  ORCID: 0000-0002-3190-3734 | API: found
+  ORCID kamuya açık adı: Fatma Büşra BENGÜBOZ
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid2.pdf | Sayfa: 1
+  ORCID: 0000-0003-4502-0649 | API: found
+  ORCID kamuya açık adı: Merve TÜRKOĞLU
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid2.pdf | Sayfa: 1
+  ORCID: 0000-0003-3129-6417 | API: found
+  ORCID kamuya açık adı: Didem Karadibak
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid2.pdf | Sayfa: 1
+  ORCID: 0000-0002-9470-5831 | API: found
+  ORCID kamuya açık adı: Ezgi Ergin
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid2.pdf | Sayfa: 1
+  ORCID: 0000-0003-0785-0238 | API: found
+  ORCID kamuya açık adı: Eda Caliskan Yildirim
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid2.pdf | Sayfa: 1
+  ORCID: 0000-0001-9375-8133 | API: found
+  ORCID kamuya açık adı: Tugba Yavuzsen
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid3.pdf | Sayfa: 1
+  ORCID: 0000-0002-6671-0238 | API: found
+  ORCID kamuya açık adı: Pınar Yaşar
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid3.pdf | Sayfa: 1
+  ORCID: 0000-0003-4970-9929 | API: found
+  ORCID kamuya açık adı: Hüseyin Tolga Acar
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid3.pdf | Sayfa: 1
+  ORCID: 0000-0002-8904-1209 | API: found
+  ORCID kamuya açık adı: RUMEYSA BARUT
+  Eşleşme: no_name_match
+  Açıklama: API adı PDF'nin ORCID bulunan sayfasında bulunamadı.
+
+PDF: orcid3.pdf | Sayfa: 1
+  ORCID: 0000-0002-0878-3877 | API: found
+  ORCID kamuya açık adı: Ahmet Said Uyan
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid3.pdf | Sayfa: 1
+  ORCID: 0000-0001-6816-5766 | API: found
+  ORCID kamuya açık adı: Ayhan CANBULUT
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid3.pdf | Sayfa: 1
+  ORCID: 0000-0001-9500-698X | API: found
+  ORCID kamuya açık adı: Sabriye Ercan
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid3.pdf | Sayfa: 1
+  ORCID: 0000-0001-7488-9242 | API: found
+  ORCID kamuya açık adı: Zeliha Başkurt
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid4.pdf | Sayfa: 1
+  ORCID: 0000-0001-7481-3045 | API: found
+  ORCID kamuya açık adı: TAHIR FATIH DIKICI
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid4.pdf | Sayfa: 1
+  ORCID: 0000-0002-7139-0523 | API: found
+  ORCID kamuya açık adı: Ertugrul Demirdel
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid5.pdf | Sayfa: 1
+  ORCID: 0000-0003-1908-274X | API: found
+  ORCID kamuya açık adı: Aylin Keskin
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid5.pdf | Sayfa: 1
+  ORCID: 0000-0002-7267-7622 | API: found
+  ORCID kamuya açık adı: Bilge Başakcı Çalık
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid5.pdf | Sayfa: 1
+  ORCID: 0000-0003-3209-1499 | API: found
+  ORCID kamuya açık adı: Elif GÜR KABUL
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid5.pdf | Sayfa: 1
+  ORCID: 0000-0002-4635-5179 | API: found
+  ORCID kamuya açık adı: MURAT TAŞÇI
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+PDF: orcid5.pdf | Sayfa: 1
+  ORCID: 0000-0003-1264-7971 | API: found
+  ORCID kamuya açık adı: veli çobankara
+  Eşleşme: exact_name_match
+  Açıklama: API adı PDF metninde aynı sırayla bulundu.
+
+GENEL SONUÇ
+------------------------------------------------------------------
+Karşılaştırılan PDF-ORCID çifti: 22
+Otomatik olumlu aday eşleşme: 21
+Exact eşleşme: 21
+Token eşleşmesi: 0
+Muhtemel eşleşme: 0
+Yalnız soyad: 0
+Eşleşme yok: 1
+Kamuya açık ad yok: 0

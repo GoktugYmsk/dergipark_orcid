@@ -1,0 +1,147 @@
+ORCID PUBLIC API DOĞRULAMA RAPORU
+========================================================
+Kapsam: checksum geçerli ORCID adayları, ORCID Public API üzerinden
+kamuya açık kişi kaydı bulunuyor mu diye sorgulandı.
+Erişim modu: anonymous public read
+
+ORCID: 0000-0001-6816-5766
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Ayhan CANBULUT
+  Kaynak PDF: orcid3.pdf
+
+
+ORCID: 0000-0001-7481-3045
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: TAHIR FATIH DIKICI
+  Kaynak PDF: orcid4.pdf
+
+
+ORCID: 0000-0001-7488-9242
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Zeliha Başkurt
+  Kaynak PDF: orcid3.pdf
+
+
+ORCID: 0000-0001-9375-8133
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Tugba Yavuzsen
+  Kaynak PDF: orcid2.pdf
+
+
+ORCID: 0000-0001-9500-698X
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Sabriye Ercan
+  Kaynak PDF: orcid3.pdf
+
+
+ORCID: 0000-0002-0878-3877
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Ahmet Said Uyan
+  Kaynak PDF: orcid3.pdf
+
+
+ORCID: 0000-0002-3190-3734
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Fatma Büşra BENGÜBOZ
+  Kaynak PDF: orcid1.pdf
+
+
+ORCID: 0000-0002-4635-5179
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: MURAT TAŞÇI
+  Kaynak PDF: orcid5.pdf
+
+
+ORCID: 0000-0002-6671-0238
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Pınar Yaşar
+  Kaynak PDF: orcid3.pdf
+
+
+ORCID: 0000-0002-7139-0523
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Ertugrul Demirdel
+  Kaynak PDF: orcid4.pdf
+
+
+ORCID: 0000-0002-7267-7622
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Bilge Başakcı Çalık
+  Kaynak PDF: orcid5.pdf
+
+
+ORCID: 0000-0002-8214-7895
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: BİHTER AKINOĞLU
+  Kaynak PDF: orcid1.pdf
+
+
+ORCID: 0000-0002-8904-1209
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: RUMEYSA BARUT
+  Kaynak PDF: orcid3.pdf
+
+
+ORCID: 0000-0002-9470-5831
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Ezgi Ergin
+  Kaynak PDF: orcid2.pdf
+
+
+ORCID: 0000-0003-0785-0238
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Eda Caliskan Yildirim
+  Kaynak PDF: orcid2.pdf
+
+
+ORCID: 0000-0003-1264-7971
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: veli çobankara
+  Kaynak PDF: orcid5.pdf
+
+
+ORCID: 0000-0003-1908-274X
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Aylin Keskin
+  Kaynak PDF: orcid5.pdf
+
+
+ORCID: 0000-0003-3129-6417
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Didem Karadibak
+  Kaynak PDF: orcid2.pdf
+
+
+ORCID: 0000-0003-3209-1499
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Elif GÜR KABUL
+  Kaynak PDF: orcid5.pdf
+
+
+ORCID: 0000-0003-4502-0649
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Merve TÜRKOĞLU
+  Kaynak PDF: orcid2.pdf
+
+
+ORCID: 0000-0003-4970-9929
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Hüseyin Tolga Acar
+  Kaynak PDF: orcid3.pdf
+
+
+ORCID: 0009-0000-6120-0733
+  API sonucu: found | HTTP: 200
+  Kamuya açık ad: Zeynep Arıkan
+  Kaynak PDF: orcid1.pdf
+
+
+GENEL SONUÇ
+--------------------------------------------------------
+Sorgulanan tekil ORCID: 22
+Kayıt bulundu: 22
+Kayıt bulunamadı: 0
+API/ağ hatası: 0
+
+Not: found sonucu ORCID kaydının varlığını gösterir. PDF yazarıyla ad
+eşleşmesi, bir sonraki aşamada PDF'den yazar adı çıkarılıp ayrıca ölçülmelidir.
